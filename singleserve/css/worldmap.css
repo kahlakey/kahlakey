@@ -2,6 +2,8 @@
 	fill: red;
 
 }
-#us:hover{
+
+
+#bj_right:hover, #bj_left:hover{
 	fill: green;
 }
