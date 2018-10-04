@@ -1,8 +1,26 @@
 h1{
-	font-family: 'Great Vibes', cursive;
-	font-size: 135px;
+	font-family: 'Questrial', sans-serif;
+	font-size: 300px;
 }
-p{
+.section1{
 	font-family: 'K2D', sans-serif;
-	font-size: 80px;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-right: 500px;
 }
+.section2{
+	font-family: 'K2D', sans-serif;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-right: 500px;
+}
+.section3{
+	font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-right: 500px;
+}
+.img1{
+	margin-left: 30px;
+}
+
