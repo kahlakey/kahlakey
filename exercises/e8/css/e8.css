@@ -1,0 +1,33 @@
+.paragraph1{
+	position: fixed;
+	margin-left: 400px;
+	margin-right: 300px;
+	
+}
+.header1{
+	margin-top: 80px;
+	margin-left: 100px;
+	
+}
+.chaptertitle1{
+	position: fixed;
+	top: 362px;
+	left: 225px;
+	transform: rotate(-90deg);
+}
+h1, h2, h3{
+	font-family: 'Merriweather', serif;
+}
+h1{
+	font-size: 3em;
+}
+h2{
+	line-height: 1em;
+	font-size: 1em;
+}
+h3{
+	font-size: 18.5px;
+}
+p{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
