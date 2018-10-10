@@ -2,16 +2,39 @@ h1{
 	font-family: 'Questrial', sans-serif;
 	font-size: 100px;
 }
-.section1{
+h2 {
+	font-family: 'K2D', sans-serif;
+	font-size: 90px;
+	font-weight: normal;
+	margin-top: 0;
+}
+h3 {
+	font-family: 'K2D', sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	margin-top: 0;
+}
+p {
+	font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	line-height: 1em;
+}
+p.quote {
+	color: yellow;
+}
+.link1{
+	color: red;
+}
+.section1 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 100px;
-	margin-left: -170px;
+	font-size: 45px;
+	margin-left: 30px;
 	margin-right: 500px;
-	margin-top: 220px;
+	margin-top: 110px;
 }
-.section2{
+.section2 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -19,7 +42,7 @@ h1{
 	margin-right: 500px;
 	margin-top: 20px;
 }
-.section3{
+.section3 p{
 	position: fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 15px;
@@ -82,28 +105,27 @@ h1{
 .section10{
 	position: fixed;
 	transform: rotate(-90deg);
-	font-family: 'K2D', sans-serif;
-	font-size: 90px;
 	margin-left: -35px;
 	margin-right: 500px;
 	margin-top: 140px;
 }
+.section10 h2 {
+	font-size: 90px;
+}
 .section11{
 	position:fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 50px;
 	margin-left: 200px;
 	margin-right: 500px;
 	margin-top: 15px;
-	line-height: 1em;
 }
 .section12{
 	position: fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 500px;
 	margin-top: 130px;
+}
+.section12 p.quote {
+	color: red;
 }
 .section13{
 	position: fixed;
