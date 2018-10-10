@@ -50,93 +50,16 @@ p.quote {
 	margin-right: 500px;
 	margin-top: 100px;
 }
-.section4{
+.section4 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 100px;
-	margin-left: -170px;
+	font-size: 70px;
+	margin-left: -40px;
 	margin-right: 500px;
-	margin-top: 220px;
+	margin-top: 165px;
 }
-.section5{
-	position:fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 50px;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 15px;
-	line-height: .75em;
-}
-.section6{
-	position: fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 15px;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 100px;
-}
-.section7{
-	position: fixed;
-	transform: rotate(-90deg);
-	font-family: 'K2D', sans-serif;
-	font-size: 185px;
-	margin-left: -120px;
-	margin-right: 500px;
-	margin-top: 90px;
-}
-.section8{
-	position:fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 50px;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 15px;
-	line-height: .75em;
-}
-.section9{
-	position: fixed;
-	font-family: 'K2D', sans-serif;
-	font-size: 15px;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 100px;
-}
-.section10{
-	position: fixed;
-	transform: rotate(-90deg);
-	margin-left: -35px;
-	margin-right: 500px;
-	margin-top: 140px;
-}
-.section10 h2 {
-	font-size: 90px;
-}
-.section11{
-	position:fixed;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 15px;
-}
-.section12{
-	position: fixed;
-	margin-left: 200px;
-	margin-right: 500px;
-	margin-top: 130px;
-}
-.section12 p.quote {
-	color: red;
-}
-.section13{
-	position: fixed;
-	transform: rotate(-90deg);
-	font-family: 'K2D', sans-serif;
-	font-size: 55px;
-	margin-left: -5px;
-	margin-right: 500px;
-	margin-top: 150px;
-}
-.section14{
+.section5 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -145,24 +68,101 @@ p.quote {
 	margin-top: 15px;
 	line-height: 1em;
 }
-.section15{
+.section6 p{
 	position: fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 500px;
-	margin-top: 130px;
+	margin-top: 140px;
 }
-.section16{
+.section7 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 40px;
-	margin-left: 60px;
+	font-size: 150px;
+	margin-left: -60px;
 	margin-right: 500px;
-	margin-top: 90px;
+	margin-top: 80px;
 }
-.section17{
+.section8 h3{
+	position:fixed;
+	font-family: 'K2D', sans-serif;
+	font-size: 50px;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 15px;
+	line-height: .75em;
+}
+.section9 p{
+	position: fixed;
+	font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 80px;
+}
+.section10 h2{
+	position: fixed;
+	transform: rotate(-90deg);
+	font-size: 95px;
+	margin-left: -60px;
+	margin-right: 500px;
+	margin-top: 150px;
+}
+
+.section11 h3{
+	position:fixed;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 15px;
+	line-height: 50px;
+}
+.section12{
+	position: fixed;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 120px;
+}
+.section12 p.quote {
+	color: red;
+}
+.section13 h2{
+	position: fixed;
+	transform: rotate(-90deg);
+	font-family: 'K2D', sans-serif;
+	font-size: 55px;
+	margin-left: -5px;
+	margin-right: 500px;
+	margin-top: 150px;
+}
+.section14 h3{
+	position:fixed;
+	font-family: 'K2D', sans-serif;
+	font-size: 50px;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 15px;
+	line-height: 1em;
+}
+.section15 {
+	position: fixed;
+	font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	margin-left: 200px;
+	margin-right: 500px;
+	margin-top: 120px;
+}
+.section16 h2{
+	position: fixed;
+	transform: rotate(-90deg);
+	font-family: 'K2D', sans-serif;
+	font-size: 30px;
+	margin-left: 90px;
+	margin-right: 500px;
+	margin-top: 80px;
+}
+.section17 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -177,9 +177,9 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 100px;
+	margin-top: 70px;
 }
-.section19{
+.section19 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
@@ -188,7 +188,7 @@ p.quote {
 	margin-right: 500px;
 	margin-top: 270px;
 }
-.section20{
+.section20 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -203,18 +203,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 150px;
+	margin-top: 120px;
 }
-.section22{
+.section22 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 75px;
-	margin-left: -60px;
+	font-size: 70px;
+	margin-left: -45px;
 	margin-right: 500px;
-	margin-top: 165px;
+	margin-top: 160px;
 }
-.section23{
+.section23 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -229,18 +229,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 150px;
+	margin-top: 125px;
 }
-.section25{
+.section25 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 105px;
-	margin-left: -120px;
+	font-size: 93px;
+	margin-left: -110px;
 	margin-right: 500px;
-	margin-top: 212px;
+	margin-top: 190px;
 }
-.section26{
+.section26 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -255,18 +255,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 150px;
+	margin-top: 130px;
 }
-.section28{
+.section28 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 88px;
-	margin-left: -50px;
+	font-size: 85px;
+	margin-left: -40px;
 	margin-right: 500px;
-	margin-top: 147px;
+	margin-top: 140px;
 }
-.section29{
+.section29 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -281,18 +281,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 150px;
+	margin-top: 130px;
 }
-.section31{
+.section31 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 65px;
-	margin-left: -35px;
+	font-size: 60px;
+	margin-left: -15px;
 	margin-right: 500px;
-	margin-top: 147px;
+	margin-top: 145px;
 }
-.section32{
+.section32 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -307,19 +307,19 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 150px;
+	margin-top: 130px;
 }
 
-.section34{
+.section34 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 90px;
-	margin-left: -110px;
+	font-size: 95px;
+	margin-left: -130px;
 	margin-right: 500px;
-	margin-top: 200px;
+	margin-top: 212px;
 }
-.section35{
+.section35 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -336,16 +336,16 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 170px;
 }
-.section37{
+.section37 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 98px;
-	margin-left: -125px;
+	font-size: 90px;
+	margin-left: -110px;
 	margin-right: 500px;
-	margin-top: 216px;
+	margin-top: 207px;
 }
-.section38{
+.section38 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -360,9 +360,9 @@ p.quote {
 	font-size: 15px;
 	margin-left: 200px;
 	margin-right: 580px;
-	margin-top: 170px;
+	margin-top: 130px;
 }
-.section40{
+.section40 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
@@ -371,7 +371,7 @@ p.quote {
 	margin-right: 500px;
 	margin-top: 125px;
 }
-.section41{
+.section41 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -388,16 +388,16 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 180px;
 }
-.section43{
+.section43 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 85px;
-	margin-left: -50px;
+	font-size: 75px;
+	margin-left: 5px;
 	margin-right: 500px;
-	margin-top: 170px;
+	margin-top: 160px;
 }
-.section44{
+.section44 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -412,18 +412,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 180px;
+	margin-top: 130px;
 }
-.section46{
+.section46 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 110px;
-	margin-left: -120px;
+	font-size: 77px;
+	margin-left: -30px;
 	margin-right: 500px;
-	margin-top: 250px;
+	margin-top: 185px;
 }
-.section47{
+.section47 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -438,18 +438,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 140px;
+	margin-top: 120px;
 }
-.section49{
+.section49 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 125px;
-	margin-left: -140px;
+	font-size: 110px;
+	margin-left: -100px;
 	margin-right: 500px;
-	margin-top: 260px;
+	margin-top: 230px;
 }
-.section50{
+.section50 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -464,24 +464,24 @@ p.quote {
 	font-size: 15px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 140px;
+	margin-top: 130px;
 }
-.section52{
+.section52 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 128px;
-	margin-left: -180px;
+	font-size: 100px;
+	margin-left: -110px;
 	margin-right: 500px;
-	margin-top: 285px;
+	margin-top: 235px;
 }
-.section53{
+.section53 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
 	margin-left: 250px;
 	margin-right: 500px;
-	margin-top: -3px;
+	margin-top: 10px;
 	line-height: 1em;
 }
 .section54{
@@ -490,18 +490,18 @@ p.quote {
 	font-size: 14px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 100px;
+	margin-top: 110px;
 }
-.section55{
+.section55 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 95px;
-	margin-left: -80px;
+	font-size: 85px;
+	margin-left: -50px;
 	margin-right: 500px;
-	margin-top: 215px;
+	margin-top: 190px;
 }
-.section56{
+.section56 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -516,18 +516,18 @@ p.quote {
 	font-size: 15px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 100px;
+	margin-top: 70px;
 }
-.section58{
+.section58 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 65px;
+	font-size: 67px;
 	margin-left: 20px;
 	margin-right: 500px;
-	margin-top: 150px;
+	margin-top: 160px;
 }
-.section59{
+.section59 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -544,7 +544,7 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 130px;
 }
-.section61{
+.section61 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
@@ -553,7 +553,7 @@ p.quote {
 	margin-right: 500px;
 	margin-top: 285px;
 }
-.section62{
+.section62 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -568,9 +568,9 @@ p.quote {
 	font-size: 14px;
 	margin-left: 250px;
 	margin-right: 580px;
-	margin-top: 130px;
+	margin-top: 110px;
 }
-.section64{
+.section64 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
@@ -579,7 +579,7 @@ p.quote {
 	margin-right: 500px;
 	margin-top: 110px;
 }
-.section65{
+.section65 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -596,16 +596,16 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 180px;
 }
-.section67{
+.section67 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 64px;
-	margin-left: -10px;
+	font-size: 75px;
+	margin-left: -30px;
 	margin-right: 500px;
-	margin-top: 103px;
+	margin-top: 118px;
 }
-.section68{
+.section68 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -620,18 +620,18 @@ p.quote {
 	font-size: 14px;
 	margin-left: 170px;
 	margin-right: 580px;
-	margin-top: 140px;
+	margin-top: 130px;
 }
-.section70{
+.section70 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 72px;
-	margin-left: -40px;
+	font-size: 80px;
+	margin-left: -60px;
 	margin-right: 500px;
-	margin-top: 125px;
+	margin-top: 138px;
 }
-.section71{
+.section71 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -648,16 +648,16 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 90px;
 }
-.section73{
+.section73 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 103px;
+	font-size: 107px;
 	margin-left: -200px;
 	margin-right: 500px;
-	margin-top: 233px;
+	margin-top: 245px;
 }
-.section74{
+.section74 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -674,16 +674,16 @@ p.quote {
 	margin-right: 580px;
 	margin-top: 170px;
 }
-.section76{
+.section76 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 55px;
-	margin-left: -20px;
+	font-size: 62px;
+	margin-left: -40px;
 	margin-right: 500px;
-	margin-top: 130px;
+	margin-top: 140px;
 }
-.section77{
+.section77 h3{
 	position:fixed;
 	font-family: 'K2D', sans-serif;
 	font-size: 50px;
@@ -698,7 +698,7 @@ p.quote {
 	font-size: 14px;
 	margin-left: 170px;
 	margin-right: 580px;
-	margin-top: 90px;
+	margin-top: 70px;
 }
 
 
