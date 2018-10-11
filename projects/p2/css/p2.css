@@ -1,6 +1,7 @@
 h1{
 	font-family: 'Questrial', sans-serif;
 	font-size: 100px;
+	color:green;
 }
 h2 {
 	font-family: 'K2D', sans-serif;
@@ -19,20 +20,64 @@ p {
 	font-size: 15px;
 	line-height: 1em;
 }
-p.quote {
-	color: yellow;
+p .quote {
+	color: grey;
 }
-.link1{
-	color: red;
+.titlelink{
+	color: 	#D4AF37;
+}
+.life{
+	color: #D4AF37;
+}
+
+.container1 h1{
+	position: fixed;
+	margin-top: 250px;
+	color:green;
+
+}
+.marriagelist{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	line-height: 2em;
+	color: #FFC0CB;
+}
+.personal{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	line-height: 2em;
+	color:  #0B1953 ;
+}
+.movies{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	line-height: 2em;
+	color:   #3498db ;
+}
+.divorce{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	line-height: 2em;
+	color:   #641e16;
+}
+.death{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	line-height: 2em;
+	color:   #626567;
+}
+.divorcelink{
+	color:   #641e16;
 }
 .section1 h2{
 	position: fixed;
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
-	font-size: 45px;
-	margin-left: 30px;
+	font-size: 38px;
+	margin-left: 70px;
 	margin-right: 500px;
-	margin-top: 110px;
+	margin-top: 105px;
+	color: #696969;
 }
 .section2 h3{
 	position:fixed;
