@@ -169,7 +169,7 @@ p{
 	font-size: 19.5px;
 	margin-top: 540px;
 	margin-left: 200px;
-	color:#320113;
+	color:#F5F5F5;
 }
 .author6 h2{
 	position: fixed;
@@ -177,14 +177,14 @@ p{
 	font-family: 'Bitter', serif;
 	margin-top: 610px;
 	margin-left: 290px;
-	color:#320113;
+	color:#F5F5F5;
 }
 .chaptertitle6 h3{
 	position:fixed;
 	font-family: 'Bitter', serif;
 	margin-left: 340px;
 	margin-top: 370px;
-	color:#320113;
+	color:#F5F5F5;
 }
 .paragraph6 p{
 	position:fixed;
@@ -192,7 +192,7 @@ p{
 	margin-left: 400px;
 	margin-right: 400px;
 	margin-top: 400px;
-	color:#320113;
+	color:#F5F5F5;
 }
 .title7 h1{
 	position:fixed;
@@ -201,6 +201,7 @@ p{
 	font-size: 40px;
 	margin-top: 300px;
 	margin-left: 600px;
+	color:#FAFAFA;
 }
 .author7 h2{
 	position: fixed;
@@ -208,17 +209,20 @@ p{
 	font-family: 'Cantarell', sans-serif;
 	margin-top: 570px;
 	margin-left: 900px;
+	color:#FAFAFA;
 }
 .chaptertitle7 h3{
 	position: fixed;
 	font-family: 'Cantarell', sans-serif;
 	margin-top: 680px;
+	color:#FAFAFA;
 }
 .paragraph7 p{
 	position: fixed;
 	font-family: 'Work Sans', sans-serif;
 	margin-top: 420px;
 	margin-right: 500px;
+	color:#FAFAFA;
 }
 .title8 h1{
 	position: fixed;
