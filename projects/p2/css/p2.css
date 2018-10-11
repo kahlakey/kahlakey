@@ -103,6 +103,7 @@ p .quote {
 	margin-left: -40px;
 	margin-right: 500px;
 	margin-top: 165px;
+	color: #696969;
 }
 .section5 h3{
 	position:fixed;
@@ -129,6 +130,7 @@ p .quote {
 	margin-left: -60px;
 	margin-right: 500px;
 	margin-top: 80px;
+	color: #696969;
 }
 .section8 h3{
 	position:fixed;
@@ -154,6 +156,7 @@ p .quote {
 	margin-left: -60px;
 	margin-right: 500px;
 	margin-top: 150px;
+	color: #696969;
 }
 
 .section11 h3{
@@ -170,7 +173,7 @@ p .quote {
 	margin-top: 120px;
 }
 .section12 p.quote {
-	color: red;
+	color: #000080;
 }
 .section13 h2{
 	position: fixed;
@@ -180,6 +183,7 @@ p .quote {
 	margin-left: -5px;
 	margin-right: 500px;
 	margin-top: 150px;
+	color: #696969;
 }
 .section14 h3{
 	position:fixed;
@@ -206,6 +210,7 @@ p .quote {
 	margin-left: 90px;
 	margin-right: 500px;
 	margin-top: 80px;
+	color: #696969;
 }
 .section17 h3{
 	position:fixed;
@@ -232,6 +237,7 @@ p .quote {
 	margin-left: -210px;
 	margin-right: 500px;
 	margin-top: 270px;
+	color: #696969;
 }
 .section20 h3{
 	position:fixed;
@@ -258,6 +264,7 @@ p .quote {
 	margin-left: -45px;
 	margin-right: 500px;
 	margin-top: 160px;
+	color: #696969;
 }
 .section23 h3{
 	position:fixed;
@@ -284,6 +291,7 @@ p .quote {
 	margin-left: -110px;
 	margin-right: 500px;
 	margin-top: 190px;
+	color: #696969;
 }
 .section26 h3{
 	position:fixed;
@@ -310,6 +318,7 @@ p .quote {
 	margin-left: -40px;
 	margin-right: 500px;
 	margin-top: 140px;
+	color: #696969;
 }
 .section29 h3{
 	position:fixed;
@@ -336,6 +345,7 @@ p .quote {
 	margin-left: -15px;
 	margin-right: 500px;
 	margin-top: 145px;
+	color: #696969;
 }
 .section32 h3{
 	position:fixed;
@@ -353,6 +363,7 @@ p .quote {
 	margin-left: 200px;
 	margin-right: 580px;
 	margin-top: 130px;
+
 }
 
 .section34 h2{
@@ -363,6 +374,7 @@ p .quote {
 	margin-left: -130px;
 	margin-right: 500px;
 	margin-top: 212px;
+	color: #696969;
 }
 .section35 h3{
 	position:fixed;
@@ -389,6 +401,7 @@ p .quote {
 	margin-left: -110px;
 	margin-right: 500px;
 	margin-top: 207px;
+	color: #696969;
 }
 .section38 h3{
 	position:fixed;
@@ -415,6 +428,7 @@ p .quote {
 	margin-left: -170px;
 	margin-right: 500px;
 	margin-top: 125px;
+	color: #696969;
 }
 .section41 h3{
 	position:fixed;
@@ -441,6 +455,7 @@ p .quote {
 	margin-left: 5px;
 	margin-right: 500px;
 	margin-top: 160px;
+	color: #696969;
 }
 .section44 h3{
 	position:fixed;
@@ -467,6 +482,7 @@ p .quote {
 	margin-left: -30px;
 	margin-right: 500px;
 	margin-top: 185px;
+	color: #696969;
 }
 .section47 h3{
 	position:fixed;
@@ -493,6 +509,7 @@ p .quote {
 	margin-left: -100px;
 	margin-right: 500px;
 	margin-top: 230px;
+	color: #696969;
 }
 .section50 h3{
 	position:fixed;
@@ -519,6 +536,7 @@ p .quote {
 	margin-left: -110px;
 	margin-right: 500px;
 	margin-top: 235px;
+	color: #696969;
 }
 .section53 h3{
 	position:fixed;
@@ -545,6 +563,7 @@ p .quote {
 	margin-left: -50px;
 	margin-right: 500px;
 	margin-top: 190px;
+	color: #696969;
 }
 .section56 h3{
 	position:fixed;
@@ -571,6 +590,7 @@ p .quote {
 	margin-left: 20px;
 	margin-right: 500px;
 	margin-top: 160px;
+	color: #696969;
 }
 .section59 h3{
 	position:fixed;
@@ -597,6 +617,7 @@ p .quote {
 	margin-left: -180px;
 	margin-right: 500px;
 	margin-top: 285px;
+	color: #696969;
 }
 .section62 h3{
 	position:fixed;
@@ -620,9 +641,10 @@ p .quote {
 	transform: rotate(-90deg);
 	font-family: 'K2D', sans-serif;
 	font-size: 45px;
-	margin-left: -10px;
+	margin-left: 10px;
 	margin-right: 500px;
 	margin-top: 110px;
+	color: #696969;
 }
 .section65 h3{
 	position:fixed;
@@ -649,6 +671,7 @@ p .quote {
 	margin-left: -30px;
 	margin-right: 500px;
 	margin-top: 118px;
+	color: #696969;
 }
 .section68 h3{
 	position:fixed;
@@ -675,6 +698,7 @@ p .quote {
 	margin-left: -60px;
 	margin-right: 500px;
 	margin-top: 138px;
+	color: #696969;
 }
 .section71 h3{
 	position:fixed;
@@ -701,6 +725,7 @@ p .quote {
 	margin-left: -200px;
 	margin-right: 500px;
 	margin-top: 245px;
+	color: #696969;
 }
 .section74 h3{
 	position:fixed;
@@ -727,6 +752,7 @@ p .quote {
 	margin-left: -40px;
 	margin-right: 500px;
 	margin-top: 140px;
+	color: #696969;
 }
 .section77 h3{
 	position:fixed;
