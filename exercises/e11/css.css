@@ -43,6 +43,15 @@
 	top:495px;
 	left:760px;
 }
+.dot{
+	background-color: red;
+	width:20px;
+	height:20px;
+	border-radius: 100%;
+	position:absolute;
+	top:200px;
+	left:100px;
+}
 .body{
 	background-color: black;
 	width:600px;
