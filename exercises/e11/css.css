@@ -1,0 +1,146 @@
+.head{
+	background-color: black;
+	width:200px;
+	height:200px;
+	border-radius: 100%;
+	position:absolute;
+	top:400px;
+	left:600px;
+}
+.eye1{
+	background-color: white;
+	width:20px;
+	height:20px;
+	border-radius: 100%;
+	position:absolute;
+	top:560px;
+	left:700px;
+}
+.eye2{
+	background-color: white;
+	width:20px;
+	height:20px;
+	border-radius: 100%;
+	position:absolute;
+	top:545px;
+	left:730px;
+}
+.eye3{
+	background-color: white;
+	width:20px;
+	height:20px;
+	border-radius: 100%;
+	position:absolute;
+	top:525px;
+	left:750px;
+}
+.eye4{
+	background-color: white;
+	width:20px;
+	height:20px;
+	border-radius: 100%;
+	position:absolute;
+	top:495px;
+	left:760px;
+}
+.body{
+	background-color: black;
+	width:600px;
+	height:500px;
+	border-radius: 100%;
+	transform: rotate(25deg);
+	position:absolute;
+	top:70px;
+}
+.leg1{
+	background-color: black;
+	width:20px;
+	height:350px;
+	position:absolute;
+	transform: rotate(70deg);
+	top:50px;
+	left:740px;
+}
+.leg1part2{
+	background-color: black;
+	width:20px;
+	height:500px;
+	position:absolute;
+	transform: rotate(-20deg);
+	top:150px;
+	left:980px;
+}
+.leg2{
+	background-color: black;
+	width:20px;
+	height:350px;
+	position:absolute;
+	transform:rotate(-25deg);
+	top:470px;
+	left:430px;
+
+}
+.leg2part2{
+	background-color: black;
+	width:20px;
+	height:500px;
+	position:absolute;
+	transform: rotate(80deg);
+	top:500px;
+	left:737px;
+}
+.leg3{
+	background-color: black;
+	width:20px;
+	height:380px;
+	position:absolute;
+	transform:rotate(-25deg);
+	top:530px;
+	left:350px;
+
+}
+.leg3part2{
+	background-color: black;
+	width:20px;
+	height:580px;
+	position:absolute;
+	transform: rotate(80deg);
+	top:550px;
+	left:705px;
+}
+.leg4{
+	background-color: black;
+	width:20px;
+	height:420px;
+	position:absolute;
+	transform: rotate(70deg);
+	top:-60px;
+	left:740px;
+}
+.leg4part2{
+	background-color: black;
+	width:20px;
+	height:580px;
+	position:absolute;
+	transform: rotate(-20deg);
+	top:60px;
+	left:1025px;
+}
+.pincer1{ width: 80px; 
+ 		 height: 80px; 
+ 		 border-radius: 50%; 
+ 		 box-shadow: 15px 15px 0 0 black; 
+ 		 transform:rotate(70deg);
+ 		 position:absolute;
+ 		 top:530px;
+ 		 left:750px;
+ }
+ .pincer2{ width: 80px; 
+ 		 height: 80px; 
+ 		 border-radius: 50%; 
+ 		 box-shadow: 15px 15px 0 0 black; 
+ 		 transform:rotate(-80deg);
+ 		 position:absolute;
+ 		 top:520px;
+ 		 left:755px;
+ }

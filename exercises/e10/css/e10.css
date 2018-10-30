@@ -1,0 +1,19 @@
+body{
+	font-size: 20px;
+}
+#container{
+	width: 75vw;
+	margin-left: 50px;
+
+}
+h1{
+	font-family: 'Righteous', cursive;
+	font-size: 100px;
+}
+h3{
+	font-family: 'Raleway:800', sans-serif;
+	font-size: 10px;
+}
+p{
+	font-family: 'Raleway', sans-serif;
+}

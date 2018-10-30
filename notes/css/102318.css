@@ -1,0 +1,34 @@
+body{
+	font-size: 20px;
+	/*background-color: yellow;*/
+
+}
+img{
+	max-width: 100%;
+}
+#container{
+	width: 75vw;
+	margin: 0 auto;
+	/*background-color: blue;*/
+}
+.headline{
+	width:30vw;
+	margin:0 auto;
+	/*background-color: green;*/
+}
+.full{
+	min-width: 100%;
+}
+h1{
+	font-size: 4em;
+	text-align: center;
+}
+p{
+	font-size: 1.5em;
+}
+@media only screen and (max-width: 600px){
+	body{
+		background-color: tomato;
+	}
+}
+
