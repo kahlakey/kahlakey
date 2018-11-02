@@ -5,13 +5,15 @@ body{
 h3{
 	font-family: 'Montserrat 400', sans-serif;
 	letter-spacing: 4px;
+	font-size: 23px;
 }
 h4{
 	font-family: 'Montserrat 800', sans-serif;
+	letter-spacing: .47px;
 }
 h1{
-	font-size: 80px;
-	letter-spacing: 6px;
+	font-size: 95px;
+	letter-spacing: 15px;
 }
 p{
 	font-family: 'Montserrat 400', sans-serif;
