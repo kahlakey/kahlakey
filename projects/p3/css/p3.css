@@ -17,10 +17,23 @@ h1{
 }
 p{
 	font-family: 'Montserrat 400', sans-serif;
+	font-size: 12pt;
 }
 .scaledup{
 	min-width: 100%;
 }
 .scaleddown{
 	max-width: 100%;
+}
+@media (min-width: 375px) {
+
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 1024px) {
+
+}
+@media (min-width: 1450px) {
+
 }
