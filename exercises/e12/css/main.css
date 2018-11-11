@@ -1,0 +1,59 @@
+body{
+	margin:0;
+	color:black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.titletop{
+	width:20vw;
+	height:50vh;
+	margin:0;
+	transition: all 3s ease;
+}
+.titlebottom{
+	font-size: 100px;
+	height:100vh;
+	text-align: center;
+}
+.numberFive{
+	text-align: center;
+	font-size: 50px;
+}
+.box{
+	width:100vw;
+	height:100vh;
+	transition: all 4s ease;
+}
+.colorchange5{
+	background-color: #98FB98;
+}
+.numberFour{
+	text-align: center;
+	font-size: 50px;
+}
+.colorchange4{
+	background-color: #00FA9A;
+}
+.numberThree{
+	text-align: center;
+	font-size: 50px;
+}
+.colorchange3{
+	background-color: #3CB371;
+}
+.numberTwo{
+	text-align: center;
+	font-size: 50px;
+}
+.colorchange2{
+	background-color: #008000;
+}
+.numberOne{
+	text-align: center;
+	font-size: 50px;
+}
+.colorchange1{
+	background-color: #006400;
+}
+h1{
+	
+}
