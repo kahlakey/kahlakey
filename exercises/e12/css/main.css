@@ -17,6 +17,7 @@ body{
 .numberFive{
 	text-align: center;
 	font-size: 50px;
+	text-decoration-line: underline;
 }
 .box{
 	width:100vw;
@@ -29,6 +30,8 @@ body{
 .numberFour{
 	text-align: center;
 	font-size: 50px;
+	text-decoration-line: underline;
+	text-decoration-style: double;
 }
 .colorchange4{
 	background-color: #00FA9A;
@@ -43,6 +46,8 @@ body{
 .numberTwo{
 	text-align: center;
 	font-size: 50px;
+	text-decoration-line: underline;
+	text-decoration-style: double;
 }
 .colorchange2{
 	background-color: #008000;
@@ -50,6 +55,7 @@ body{
 .numberOne{
 	text-align: center;
 	font-size: 50px;
+	text-decoration-line: underline;
 }
 .colorchange1{
 	background-color: #006400;
