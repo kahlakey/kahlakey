@@ -28,7 +28,7 @@ function demoFunction() {
         $('.box').toggleClass('colorchange3');
         // $('.header').css('font-size', '200px')
     })
-    $('.numberTwo').click(function() {
+    $('.numberTwo').dblclick(function() {
         $('.box').toggleClass('colorchange2');
         // $('.header').css('font-size', '200px')
     })
