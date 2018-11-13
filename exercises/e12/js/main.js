@@ -17,23 +17,44 @@ $(document).ready(function() {
 // mouse event link https://api.jquery.com/category/events/mouse-events/
 function demoFunction() {
     $('.numberFive').click(function() {
-        $('.box').toggleClass('colorchange5');
+        $('.box').addClass('colorchange5');
+        $('.box').removeClass('colorchange4');
+        $('.box').removeClass('colorchange3');
+        $('.box').removeClass('colorchange2');
+        $('.box').removeClass('colorchange1');
         // $('.header').css('font-size', '200px')
     })
     $('.numberFour').dblclick(function() {
-        $('.box').toggleClass('colorchange4');
+         $('.box').addClass('colorchange4');
+        $('.box').removeClass('colorchange5');
+        $('.box').removeClass('colorchange3');
+        $('.box').removeClass('colorchange2');
+        $('.box').removeClass('colorchange1');
         // $('.header').css('font-size', '200px')
     })
     $('.numberThree').mouseenter(function() {
-        $('.box').toggleClass('colorchange3');
+         $('.box').addClass('colorchange3');
+        $('.box').removeClass('colorchange4');
+        $('.box').removeClass('colorchange5');
+        $('.box').removeClass('colorchange2');
+        $('.box').removeClass('colorchange1');
+
         // $('.header').css('font-size', '200px')
     })
     $('.numberTwo').dblclick(function() {
-        $('.box').toggleClass('colorchange2');
+         $('.box').addClass('colorchange2');
+        $('.box').removeClass('colorchange4');
+        $('.box').removeClass('colorchange3');
+        $('.box').removeClass('colorchange5');
+        $('.box').removeClass('colorchange1');
         // $('.header').css('font-size', '200px')
     })
     $('.numberOne').click(function() {
-        $('.box').toggleClass('colorchange1');
+          $('.box').addClass('colorchange1');
+        $('.box').removeClass('colorchange4');
+        $('.box').removeClass('colorchange3');
+        $('.box').removeClass('colorchange2');
+        $('.box').removeClass('colorchange5');
         // $('.header').css('font-size', '200px')
     })
     $('.jqHover').hover(function() {
