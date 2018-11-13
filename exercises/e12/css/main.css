@@ -18,6 +18,7 @@ body{
 	text-align: center;
 	font-size: 50px;
 	text-decoration-line: underline;
+	cursor: pointer;
 }
 .box{
 	width:100vw;
@@ -32,6 +33,7 @@ body{
 	font-size: 50px;
 	text-decoration-line: underline;
 	text-decoration-style: double;
+	cursor: pointer;
 }
 .colorchange4{
 	background-color: #00FA9A;
@@ -39,6 +41,7 @@ body{
 .numberThree{
 	text-align: center;
 	font-size: 50px;
+	cursor: pointer;
 }
 .colorchange3{
 	background-color: #3CB371;
@@ -48,6 +51,7 @@ body{
 	font-size: 50px;
 	text-decoration-line: underline;
 	text-decoration-style: double;
+	cursor: pointer;
 }
 .colorchange2{
 	background-color: #008000;
@@ -56,6 +60,7 @@ body{
 	text-align: center;
 	font-size: 50px;
 	text-decoration-line: underline;
+	cursor: pointer;
 }
 .colorchange1{
 	background-color: #006400;
