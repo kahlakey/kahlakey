@@ -1,63 +1,80 @@
-.h1{
-	position: fixed;
-	margin-left: 420px;
-	margin-top: -120px;
+
+*{
+	transition: all 2s ease;
+}
+
+.fallen{
+	margin-top: 0px;
 }
 h1{
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 2px;
-	font-size: 35pt;
+	font-size: 20pt;
+}
+
+.container1{
+	width:395px;
+	margin: 0 auto;
+	text-align: center;
+}
+.container2{
+	position: relative;
 }
 .tree{
-	margin-top: 100px;
-	margin-left: 450px;
+	position: absolute;
+	top:0;
+	left:0;
 }
 .apple1{
-	position: relative;
-	margin-top: -450px;
-	margin-left: 580px;
+	position:absolute;
+	top:84px;
+	left:23px;
 }
 .apple2{
-	position: fixed;
-	margin-top: -510px;
-	margin-left: 620px;
+	position:absolute;
+	top:157px;
+	left:108px;
 }
 .apple3{
-	position: fixed;
-	margin-top: -420px;
-	margin-left: 650px;
+	position:absolute;
+	top:37px;
+	left:96px;
 }
 .apple4{
-	position: fixed;
-	margin-top: -460px;
-	margin-left: 700px;
+	position:absolute;
+	top:119px;
+	left:205px;
 }
 .apple5{
-	position: fixed;
-	margin-top: -500px;
-	margin-left: 520px;
+	position:absolute;
+	top:30px;
+	left:166px;
 }
 .apple6{
-	position: fixed;
-	margin-top: -400px;
-	margin-left: 760px;
+	position:absolute;
+	top:83px;
+	left:119px;
 }
 .apple7{
-	position: fixed;
-	margin-top: -380px;
-	margin-left: 600px;
+	position:absolute;
+	top:67px;
+	left:269px;
 }
 .apple8{
-	position: fixed;
-	margin-top: -550px;
-	margin-left: 690px;
+	position:absolute;
+	top:135px;
+	left:317px;
 }
-.container1{
-	width:600px;
-	margin: 0 auto;
-}
-@media only screen and  (max-width: 310px) {
-	.container{
 
+
+@media only screen and  (max-width: 400px) {
+	.container1{
+		width:300px;
+	}
+	/*.treeimage{
+		width:300px;
+	}*/
+	.tree img {
+		max-width: 100%;
 	}
 }
