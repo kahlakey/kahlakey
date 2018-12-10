@@ -1,0 +1,478 @@
+.heading{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    left: 100px;
+}
+.home{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 100px;
+}
+.about{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 200px;
+}
+.books{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 300px;
+}
+.brokeass{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+#bookname{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.paragraph{
+    position: absolute;
+    width: 480px;
+    height:450px;
+    top:170px;
+    left: 600px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#description{
+    font-size: 20px;
+}
+.recipetitle{
+    position: absolute;
+    top:450px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 107px;
+    color:#ad8900;
+}
+.foodpic{
+    position: absolute;
+    top:900px;
+    left:100px;
+    width:73%;
+}
+.ingredients{
+    position:absolute;
+    top:1500px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions{
+    position:absolute;
+    top:2000px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.ireland{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle2{
+    position: absolute;
+    top:530px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 75px;
+    color:#ad8900;
+}
+.ingredients2{
+    position:absolute;
+    top:1700px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions2{
+    position:absolute;
+    top:2200px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.forestfeast{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle3{
+    position: absolute;
+    top:530px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 75px;
+    color:#ad8900;
+}
+.foodpic3{
+    position: absolute;
+    top:900px;
+    left:100px;
+    width:65%;
+}
+.ingredients3{
+    position:absolute;
+    top:2200px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions3{
+    position:absolute;
+    top:2700px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.honey{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle4{
+    position: absolute;
+    top:580px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 55px;
+    color:#ad8900;
+}
+.foodpic4{
+    position: absolute;
+    top:900px;
+    left:100px;
+    width:83%;
+}
+.ingredients4{
+    position:absolute;
+    top:1900px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions4{
+    position:absolute;
+    top:2600px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname5{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.korean{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle5{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic5{
+    position: absolute;
+    top:1300px;
+    left:100px;
+    width:83%;
+}
+.ingredients5{
+    position:absolute;
+    top:2100px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions5{
+    position:absolute;
+    top:2700px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname6{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 27.8px;
+}
+.french{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle6{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic6{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    width:75%;
+}
+.ingredients6{
+    position:absolute;
+    top:2300px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions6{
+    position:absolute;
+    top:2700px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname7{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 27.8px;
+}
+.sfah{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle7{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic7{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    width:75%;
+}
+.ingredients7{
+    position:absolute;
+    top:2300px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions7{
+    position:absolute;
+    top:2700px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname8{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.stepbystep{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle8{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic8{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    width:65%;
+}
+.ingredients8{
+    position:absolute;
+    top:2300px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions8{
+    position:absolute;
+    top:2700px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#bookname9{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.sundaysuppers{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle9{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic9{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    width:65%;
+}
+.ingredients9{
+    position:absolute;
+    top:1600px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions9{
+    position:absolute;
+    top:2400px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  top:200px;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
