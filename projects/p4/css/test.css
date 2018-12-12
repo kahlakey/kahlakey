@@ -1,0 +1,66 @@
+.heading{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    left: 100px;
+}
+.home{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 100px;
+}
+.about{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 200px;
+}
+.books{
+    position:absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    top:73px;
+    left: 300px;
+}
+#bookname3test{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.forestfeasttest{
+    position: absolute;
+    top:200px;
+    left:100px;
+    width:25%;
+}
+.recipetitle3test{
+    position: absolute;
+    top:520px;
+    left:90px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 95px;
+    color:#ad8900;
+}
+.foodpic3test{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    width:65%;
+}
+.ingredients3test{
+    position:absolute;
+    top:1600px;
+    left:60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.instructions3test{
+    position:absolute;
+    top:2400px;
+    left:100px;
+    width:700px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
