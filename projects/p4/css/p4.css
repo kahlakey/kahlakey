@@ -386,6 +386,18 @@
     font-size: 20px;
     font-family: 'Josefin Sans', sans-serif;
 }
+.aboutparagraph{
+    position: absolute;
+    width: 480px;
+    height:450px;
+    top:800px;
+    left: 450px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#aboutdescription{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+}
 
 * {box-sizing:border-box}
 
