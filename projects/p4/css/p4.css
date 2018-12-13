@@ -723,6 +723,237 @@
 }
 
 @media only screen and  (max-width: 400px){
+ #bookname{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.brokeass{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle{
+    position: absolute;
+    top:1400px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic{
+    position: absolute;
+    top:1200px;
+    left:60px;
+    width:75%;
+}
+.ingredients{
+    position:absolute;
+    top:1580px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions{
+    position:absolute;
+    top:1900px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+ #bookname2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.ireland{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle2{
+    position: absolute;
+    top:1400px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic{
+    position: absolute;
+    top:1200px;
+    left:60px;
+    width:75%;
+}
+.ingredients2{
+    position:absolute;
+    top:1650px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions2{
+    position:absolute;
+    top:1900px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+ #bookname3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.forestfeast{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.container2{
+    position:absolute;
+    top:1100px;
+    left:70px;
+}
+.recipetitle3{
+    position: absolute;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+    top:1400px;
+    left: 60px;
+}
+.foodpic3{
+    float: left;
+    width:80%;
+}
+
+.ingredients3{
+    position:absolute;
+    top:1700px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions3{
+    position:absolute;
+    top:2000px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+ #bookname4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.honey{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle4{
+    position: absolute;
+    top:1000px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic4{
+    position: absolute;
+    top:1400px;
+    left:60px;
+    width:75%;
+}
+.ingredients4{
+    position:absolute;
+    top:1650px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions4{
+    position:absolute;
+    top:2100px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+  #bookname5{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.korean{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle5{
+    position: absolute;
+    top:1180px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic5{
+    position: absolute;
+    top:1500px;
+    left:60px;
+    width:75%;
+}
+.ingredients5{
+    position:absolute;
+    top:1750px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions5{
+    position:absolute;
+    top:2100px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
  #bookname6{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 31px;
