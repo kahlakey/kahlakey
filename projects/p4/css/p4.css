@@ -723,6 +723,147 @@
 }
 
 @media only screen and  (max-width: 400px){
+ #bookname6{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.french{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle6{
+    position: absolute;
+    top:1000px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic6{
+    position: absolute;
+    top:1150px;
+    left:60px;
+    width:75%;
+}
+.ingredients6{
+    position:absolute;
+    top:1550px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions6{
+    position:absolute;
+    top:1800px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+  #bookname7{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.sfah{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle7{
+    position: absolute;
+    top:950px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic7{
+    position: absolute;
+    top:1100px;
+    left:70px;
+    width:75%;
+}
+.ingredients7{
+    position:absolute;
+    top:1400px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions7{
+    position:absolute;
+    top:1700px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+  #bookname8{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 31px;
+}
+.stepbystep{
+    position: absolute;
+    top:160px;
+    left:70px;
+    width:75%;
+}
+.paragraph{
+    position: absolute;
+    width: 300px;
+    height:450px;
+    top:550px;
+    left: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.recipetitle8{
+    position: absolute;
+    top:1100px;
+    left:60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color:#ad8900;
+}
+.foodpic8{
+    position: absolute;
+    top:1300px;
+    left:70px;
+    width:65%;
+}
+.ingredients8{
+    position:absolute;
+    top:1700px;
+    left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+.instructions8{
+    position:absolute;
+    top:1950px;
+    left:70px;
+    width:270px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
   #bookname9{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 31px;
@@ -765,8 +906,8 @@
 .instructions9{
     position:absolute;
     top:1950px;
-    left:30px;
-    width:300px;
+    left:70px;
+    width:270px;
     font-size: 12px;
     font-family: 'Josefin Sans', sans-serif;
 }  
